@@ -70,12 +70,12 @@ Proses modeling yang saya lakukan pada data ini adalah dengan menggabungkan tiga
 
 Berikut adalah hasil dari model terbaik dari ketiga algoritma yang saya gunakan
 
-![Bar chart](https://raw.githubusercontent.com/onedayxzn/submission_file/master/output.png?token=AOCWOZUKRHPPUQD4XV6QMWTBLVA7O)
+![Bar chart](https://raw.githubusercontent.com/onedayxzn/submission_file/master/output.png)
 
 dapat dilihat dari bar char di atas dari ketiga model algoritma yang saya pakai, bahwa Random Forest lah yang memiliki nilai error yang paling kecil.
 
 berikut adalah hasil dari modelnya  
-![hasil model predisi](https://raw.githubusercontent.com/onedayxzn/submission_file/master/SharedScreenshot.jpg?token=AOCWOZRLQ67HBIP7EOV4P3LBLVBBY)
+![hasil model predisi](https://raw.githubusercontent.com/onedayxzn/submission_file/master/SharedScreenshot.jpg)
 
 dari gambar tabel di atas dapat dilihat bahwa prediksi menggunakan Random Forest memberikan hasil yang paling mendekati dibandingkan dengan kedua model lainnya.
 
@@ -93,7 +93,7 @@ Kerugian: Jika kita membuat satu prediksi yang sangat buruk, kuadrat akan membua
 
 formula dari metrik MSE adalah sebagai berikut
 
-![formula metrik MSE](https://raw.githubusercontent.com/onedayxzn/submission_file/master/2021071619431112f1106e20559e77c855cea11d1b1479.jpeg?token=AOCWOZWF4EYDHBSANREB2ITBLVBQGY)
+![formula metrik MSE](https://raw.githubusercontent.com/onedayxzn/submission_file/master/2021071619431112f1106e20559e77c855cea11d1b1479.jpeg)
 
 keterangan : <br>
 N : Jumlah dataset. <br>
@@ -101,6 +101,6 @@ yi = nilai sebenarnya.<br>
 y_pred = nilai prediksi.<br>
 
 cara menerapkan metrik tersebut pada kode adalah sebagai berikut :
-![kode mse](https://raw.githubusercontent.com/onedayxzn/submission_file/master/SharedScreenshot1.jpg?token=AOCWOZQUWFBI35SLLIZLPHDBLVBF6)
+![kode mse](https://raw.githubusercontent.com/onedayxzn/submission_file/master/SharedScreenshot1.jpg)
 
 **---Ini adalah bagian akhir laporan---**
